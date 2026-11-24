@@ -32,5 +32,5 @@ frontend https_front
 
 backend web_servers
 	balance roundrobin
-	server 7123-web-01 18.133.158.178:80 check
+	server 7123-web-01 35.178.153.123:80 check
 	server 7123-web-02 3.9.132.43:80 check
