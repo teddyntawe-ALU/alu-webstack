@@ -1,2 +1,5 @@
 # alu-webstack
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google
+
+Web stack projects: building, scaling and securing a web infrastructure.
+
+- [`https_ssl`](./https_ssl) – HTTPS, SSL termination with HAProxy and HTTP to HTTPS redirection
